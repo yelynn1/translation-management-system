@@ -1,0 +1,34 @@
+{
+  "name": "tms-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Translation Management System",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yelynn1/translation-management-system.git"
+  },
+  "keywords": [
+    "TMS"
+  ],
+  "author": "Ye Lynn Khant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yelynn1/translation-management-system/issues"
+  },
+  "homepage": "https://github.com/yelynn1/translation-management-system#readme",
+  "dependencies": {
+    "antd": "^5.11.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.0.4"
+  }
+}
